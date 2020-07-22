@@ -6,8 +6,9 @@
   <img align="left" alt="Zenghao Gao" width="20px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
 <br/>
+<br/>
 
-I was born and raised in Shanghai, China and went to high school in Wallingford, United States. I currently live in Montreal, Canada.
+I was born and raised in Shanghai, China and went to high school in Wallingford, USA. I currently reside in Montreal, Canada.
 
 I have found myself increasingly drawn to Computer Science because of its interdiscplinary nature. To me, the computing industry is the only frontier which inspires unity between the divergent areas of sciences in order to obtain optimal solution to real world issues.
 
