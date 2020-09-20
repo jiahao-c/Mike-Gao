@@ -1,4 +1,7 @@
 ## Hi, I'm Mike Gao 👋
+<a href="https://www.mikegao.net">
+  <img align="left" alt="Mike's Webpage" width="20px" src="https://image.flaticon.com/icons/svg/3335/3335216.svg" />
+</a>
 <a href="https://twitter.com/gaozenghao">
   <img align="left" alt="gaozenghao | Twitter" width="20px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
@@ -21,10 +24,9 @@ Within the field of Computer Graphics and Machine Learning, I'm especially inter
 
 🎓 I graduated [Choate Rosemary Hall](https://www.choate.edu) in May 2019
 
-📫 Send me a message at [contact@mikegao.net](mailto:contact@mikegao.net)
+📫 Send me a message at [contact@mikegao.net](mailto:contact@mikegao.net)  [[pgp]](https://keys.mailvelope.com/pks/lookup?op=get&search=contact%40mikegao.net)
 
 🌍 In my free time, I enjoy swimming, traveling, and trading extremely shady stocks
-
 
 <!--
 **Mike-Gao/Mike-Gao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
