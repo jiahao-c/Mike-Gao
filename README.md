@@ -2,11 +2,11 @@
 <a href="https://www.mikegao.net">
   <img align="left" alt="Mike's Webpage" width="20px" src="https://image.flaticon.com/icons/svg/3335/3335216.svg" />
 </a>
-<a href="https://twitter.com/gaozenghao">
-  <img align="left" alt="gaozenghao | Twitter" width="20px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
-</a>
 <a href="https://www.linkedin.com/in/zenghao">
   <img align="left" alt="Zenghao Gao" width="20px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+</a>
+<a href="https://twitter.com/gaozenghao">
+  <img align="left" alt="gaozenghao | Twitter" width="20px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
 <br/>
 <br/>
